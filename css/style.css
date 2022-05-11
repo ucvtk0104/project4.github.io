@@ -1,0 +1,23 @@
+body{
+    background-image: url(../img/fon4.jpg);
+}
+
+td{
+    border: dashed 1px #36802f;
+    background-color: #FFFFFF;	
+
+}
+h1 {
+    color: #06179B;
+    text-align: center;
+    font-size: 62px;
+    margin-top: 90px;
+    font-family:"Arial Black";
+}
+table {
+    border: 3px solid #72410c;
+}
+
+#ban{
+	border:none;
+}
